@@ -1,0 +1,95 @@
+Ronald Ferry NOUMSI NOUBISSI
+Développeur ERP Odoo | Consultant Technico-Fonctionnel | Chef de Projet IT
+📧 noumsironald@gmail.com | 📞 +237 690 33 12 95 | 📍 Cameroun
+Développeur ERP Odoo/Python
+ 
+ 	TECHNOLOGIES
+ODOO (v8 à v18)
+PYTHON3
+XML
+JAVASCRIPT
+POSTGRESQL
+GIT
+HTML/CSS	⚫⚫⚫⚫
+⚫⚫⚫
+⚫⚫⚫⚫
+⚫⚫⚫
+⚫⚫⚫⚫
+⚫⚫⚫⚫
+⚫⚫⚫⚫
+  COMPÉTENCES CLÉS
+Intégration Odoo
+RédactionAnalyse
+documentation	fonctionnelle
+ConceptionDéveloppement techniquesur mesure
+ Formation Gestion de projet utilisateurs Agile/Scrum
+ 
+2023 – Gestion de Projet
+2019 - 2020 – Licence de Technologie
+ 
+		
+	 	PROFIL
+Expert Odoo avec plus de 4 ans d'expérience dans le développement, la personnalisation et l'intégration de solutions ERP. Spécialisé en Python, j'accompagne les entreprises dans la transformation numérique de leurs processus métiers à travers des déploiements sur mesure d’Odoo. Je combine expertise technique, approche orientée client et compétences en gestion de projet pour garantir des solutions robustes, efficaces et adaptées aux besoins stratégiques.
+	 	EXPÉRIENCES SIGNIFICATIVES
+FUTURA SARL
+Développeur ERP Odoo
+Rattaché au groupe CONGELCAM S.A, j’ai assuré le développement, la personnalisation et le déploiement de solutions ERP Odoo adaptées aux besoins spécifiques de la société FUTURA et de ses entités associées. J’ai également participé à des projets complexes sur Odoo v18 Enterprise, avec une prise en charge de la gestion multisociété et du module restauration.
+✅ Responsabilités clés :
+•	Analyse des besoins fonctionnels en collaboration avec les directions métier.
+•	Développement de modules sur mesure en Python/Odoo pour automatiser les processus internes.
+•	Mise en œuvre et configuration d’environnements multisociétés (filiales).
+•	Intégration de nouveaux modules avec les systèmes existants.
+•	Conception et exécution de plans de tests (unitaires, fonctionnels, intégrés).
+•	Formation des utilisateurs, création de documentation et support postdéploiement.
+📦 Modules personnalisés développés : Ventes, Achats, Inventaire, Facturation, CRM, WhatsApp, Gestion Hôtelière, Restauration, Suivi des Conteneurs, Demande de Stock, comptabilité, Flotte, Maintenance.
+🏭 Secteurs d’activité : Construction, Commerce, Immobilier, Hôtellerie/Restauration.
+🧩 Versions Odoo utilisées : Community v14–v15, Enterprise v18.
+SCS S.A / CAMLAIT S.A / SOCARETEX SARL
+Consultant Technico-Fonctionnel Odoo | Assistant Chef de Projet
+Dans le cadre de missions stratégiques pour ces entreprises, j’ai participé à l’intégration, la personnalisation et au déploiement de la solution ERP Odoo v8. Mon rôle a couvert aussi bien les dimensions techniques que fonctionnelles, en lien avec les équipes internes et les prestataires externes.
+Page1
+ 
+✅ Responsabilités clés :
+•	Analyse des besoins métiers avec les équipes internes et externes.
+•	Développement et personnalisation de modules ERP Odoo pour automatiser les processus critiques.
+•	Diagnostic technique et résolution des anomalies, avec documentation complète des correctifs.
+•	Mise en place de processus de tests (unitaires, fonctionnels et intégrés) avant livraison.
+•	Suivi de projet via Azure DevOps : rédaction de user stories, priorisation et contrôle des livrables.
+•	Coordination entre les équipes techniques et fonctionnelles pour assurer l’alignement projet.
+•	Formation des utilisateurs finaux et animation de sessions de prise en main.
+📦 Modules personnalisés développés : Ventes, Achats, Inventaire, Facturation, CRM, Flotte, Suivi des Flux, Fabrication, POS, Maintenance, Reporting métier.
+🏭 Secteurs d’activité : Agroalimentaire, Textile, Logistique.
+🧩 Versions Odoo utilisées : Community v8.
+	 	PARCOURS PROFESSIONNEL
+FUTURA SARL
+Développeur ERP Odoo/Python 
+Depuis août 2024, j’occupe le poste de développeur ERP Odoo/Python au sein de FUTURA, une filiale du Groupe CONGELCAM S.A. J’y conçois, personnalise et déploie des modules ERP sur mesure répondant aux exigences métiers de l’entreprise. J’interviens de bout en bout dans le cycle de développement : analyse des besoins, conception technique, intégration fonctionnelle, tests rigoureux, mise en production, formation des utilisateurs et support. Mon travail porte notamment sur des modules clés tels que la vente, les achats, l’inventaire, la facturation, la gestion hôtelière et la réservation. J’évolue dans un environnement multisociété et interconnecté, utilisant les versions les plus récentes d’Odoo, dont la v18 Enterprise.
+🛠 Environnement technique : Odoo Community v14–v17, Enterprise v18 | Python, XML, JavaScript,
+PostgreSQL | GitHub, Pycharm | Ubuntu 22.04 & Windows 11
+CORPECCA SARL
+Développeur ERP Odoo/Python | Tech Lead | IT Project Manager
+Au sein de CORPECCA, j’ai occupé un rôle hybride combinant le développement, le pilotage technique et la gestion de projets Odoo. J’ai conçu et personnalisé des modules ERP adaptés aux besoins métiers spécifiques des clients tout en assurant la rédaction de documentation technique et la formation des utilisateurs pour garantir une adoption fluide. En tant que référent technique, j’ai dirigé les équipes lors des déploiements en production, en m’assurant de l’intégration cohérente des solutions dans l’écosystème client. J’ai également soutenu la gestion de projet en accompagnant le chef de projet senior sur la planification, la coordination et le suivi opérationnel. En parallèle, j’ai assuré la communication inter-équipes, produit des modèles de reporting stratégiques et contribué à l’amélioration continue de l’efficacité des projets.
+🛠 Environnement technique : Odoo ERP, Python, JavaScript, XML, HTML5/CSS3, PostgreSQL, PgAdmin4, GitHub, Pycharm, Visual Studio Code, VirtualBox, VMware, Beyond Compare 4, Insomnia, Microsoft Office, ChatGPT, Windows 10, Ubuntu 18.04
+📋 Méthodologies & outils : Agile, Scrum | Trello, Jira, Azure DevOps, Slack, Teams, Outlook, Zoom, Skype.
+ 
+Page 2
+PHILJOHN TECH – Cloud ERP Integrator Jr (Hybride) Consultant ERP Odoo
+Dans le cadre de mon rôle d’intégrateur ERP Cloud, j’ai renforcé mon expertise fonctionnelle sur la solution Odoo en collaborant étroitement avec les équipes commerciales et techniques. J’ai contribué à assurer une intégration fluide des solutions chez les clients, en mettant l’accent sur la satisfaction utilisateur et l’optimisation des processus métier.
+J’ai notamment piloté un projet d’implémentation d’un système de point de vente (POS) pour une librairie, où j’étais en charge de la collecte des besoins, de l’analyse fonctionnelle et de la configuration complète du module POS dans Odoo. Ce projet m’a permis de consolider mes compétences en gestion de projet, en relation client et en conduite du changement, dans un contexte retail.
+🛠 Environnement technique : Odoo Enterprise v17 | Configuration POS, Windows 10
+JE-TECHNOLOGIE – Développeur Web (stage)
+Réalisation des tâches de développement de site web
+J'ai développé des compétences solides en création de sites web d'entreprise, notamment dans la Au cours de mon stage chez JE-TECHNOLOGIE, j’ai acquis des compétences solides dans la conception et le développement de sites web d’entreprise. J’ai participé à la rédaction de cahiers des charges techniques, à l’intégration front-end et back-end, et à la configuration d’environnements d’hébergement. Cette expérience m’a permis de développer une bonne maîtrise des outils de développement web ainsi qu’une compréhension technique des plateformes d’hébergement.
+Juin 2024 – Août 2024 
+(3 mois)
+Odoo ERP Entreprise 
+Analyse 
+Configuration
+Oct. 2020 - Mai 2021
+(8 mois)
+Développement web
+Analyse
+Conception
+Documentation
+🛠 Environnement technique : HTML5, CSS3, JavaScript, PHP, Bootstrap, WampServer, CodeIgniter
+Page 3

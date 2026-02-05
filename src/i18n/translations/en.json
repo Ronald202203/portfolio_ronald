@@ -1,0 +1,154 @@
+{
+    "hero": {
+        "name": "Ronald Ferry NOUMSI NOUBISSI",
+        "title": "Odoo ERP Developer | Technical-Functional Consultant | IT Project Manager",
+        "tagline": "Designing, customizing and deploying powerful Odoo ERP solutions that optimize business processes and drive digital transformation.",
+        "downloadCV": "Download CV",
+        "contactMe": "Contact Me"
+    },
+    "nav": {
+        "about": "About",
+        "skills": "Skills",
+        "experience": "Experience",
+        "education": "Education",
+        "contact": "Contact"
+    },
+    "about": {
+        "title": "About Me",
+        "description": "Odoo ERP expert with more than 4 years of experience in development, customization and integration of enterprise solutions. Specialized in Python and business process automation, helping companies digitalize operations through tailored Odoo deployments. Combining strong technical expertise, functional analysis and project management skills to deliver robust, scalable and efficient systems.",
+        "stats": {
+            "experience": "Years Experience",
+            "modules": "Odoo Modules",
+            "projects": "Projects Completed",
+            "technologies": "Technologies"
+        }
+    },
+    "techStack": {
+        "title": "Tech Stack"
+    },
+    "skills": {
+        "title": "Core Skills",
+        "list": [
+            "Odoo integration",
+            "Custom module development",
+            "Functional analysis",
+            "Business process automation",
+            "ERP architecture",
+            "Technical documentation",
+            "User training",
+            "Agile/Scrum project management"
+        ]
+    },
+    "experience": {
+        "title": "Professional Experience",
+        "jobs": [
+            {
+                "company": "FUTURA SARL",
+                "position": "Odoo ERP Developer",
+                "period": "2024 – Present",
+                "responsibilities": [
+                    "Develop and customize Odoo modules",
+                    "Multi-company environments",
+                    "Integrate enterprise systems",
+                    "Testing and deployment",
+                    "User training and support"
+                ],
+                "modules": "Modules: Sales, Purchase, Inventory, Accounting, CRM, Hospitality, Restaurant, Fleet, Maintenance"
+            },
+            {
+                "company": "CORPECCA SARL",
+                "position": "Odoo Developer | Tech Lead | IT Project Manager",
+                "period": "2021 – 2024",
+                "responsibilities": [
+                    "Lead technical team",
+                    "Custom ERP solutions",
+                    "Client deployments",
+                    "Documentation",
+                    "Reporting and coordination"
+                ],
+                "tech": "Tech: Odoo, Python, JS, PostgreSQL, GitHub | Methodologies: Agile, Scrum, Jira, Azure DevOps"
+            },
+            {
+                "company": "SCS / CAMLAIT / SOCARETEX",
+                "position": "Technical-Functional Odoo Consultant",
+                "period": "2020 – 2021",
+                "responsibilities": [
+                    "Business needs analysis",
+                    "Module development",
+                    "Bug fixing and testing",
+                    "User stories",
+                    "Training"
+                ],
+                "tech": "Version: Odoo v8"
+            },
+            {
+                "company": "PHILJOHN TECH",
+                "position": "Odoo Cloud ERP Integrator",
+                "period": "2020",
+                "responsibilities": [
+                    "ERP implementation",
+                    "POS configuration",
+                    "Client support"
+                ]
+            },
+            {
+                "company": "JE-TECHNOLOGIE",
+                "position": "Web Developer Intern",
+                "period": "2019",
+                "responsibilities": [
+                    "Company websites development"
+                ],
+                "tech": "Tech: HTML, CSS, JavaScript, PHP, Bootstrap, CodeIgniter"
+            }
+        ]
+    },
+    "tools": {
+        "title": "Tools & Environment",
+        "list": [
+            "PyCharm",
+            "VS Code",
+            "GitHub",
+            "Ubuntu / Windows",
+            "VirtualBox / VMware",
+            "Trello / Jira / Azure DevOps / Slack"
+        ]
+    },
+    "education": {
+        "title": "Education",
+        "degrees": [
+            {
+                "degree": "Project Management",
+                "year": "2023"
+            },
+            {
+                "degree": "Bachelor of Technology",
+                "year": "2019–2020"
+            }
+        ]
+    },
+    "languages": {
+        "title": "Languages",
+        "list": [
+            "French",
+            "English"
+        ]
+    },
+    "contact": {
+        "title": "Get In Touch",
+        "subtitle": "Let's discuss your next ERP project",
+        "email": "Email",
+        "phone": "Phone",
+        "location": "Location",
+        "locationValue": "Cameroon",
+        "sendMessage": "Send Message",
+        "form": {
+            "name": "Your Name",
+            "email": "Your Email",
+            "message": "Your Message",
+            "send": "Send Message"
+        }
+    },
+    "footer": {
+        "copyright": "© 2026 Ronald Ferry NOUMSI NOUBISSI – Odoo ERP Developer"
+    }
+}

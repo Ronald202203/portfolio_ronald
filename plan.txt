@@ -1,0 +1,213 @@
+Create a modern, professional and fully responsive personal portfolio website using:
+
+- React
+- Vite
+- TailwindCSS
+- Framer Motion (smooth and subtle animations)
+- Clean corporate tech design
+- Desktop first
+
+================================
+DESIGN STYLE
+================================
+
+The website must look:
+
+- minimalist
+- elegant
+- professional
+- ERP / consulting / software engineering oriented
+- similar to a tech consultant or IT services company
+- NOT flashy
+- NOT colorful
+- NOT gamer style
+
+Color palette:
+- white
+- dark navy blue
+- gray
+- subtle shadows
+
+Typography:
+- Inter or Manrope
+- strong hierarchy
+- clean spacing
+
+UI:
+- smooth scroll
+- section reveal animations
+- professional icons (Lucide or Heroicons)
+- clean cards
+- premium consulting feel
+- fast loading
+
+================================
+PERSONAL INFORMATION
+================================
+
+Name:
+Ronald Ferry NOUMSI NOUBISSI
+
+Title:
+Odoo ERP Developer | Technical-Functional Consultant | IT Project Manager
+
+Tagline:
+"Designing, customizing and deploying powerful Odoo ERP solutions that optimize business processes and drive digital transformation."
+
+Contact:
+Email: noumsironald@gmail.com
+Phone: +237 690 33 12 95
+Location: Cameroon
+
+================================
+SECTIONS REQUIRED
+================================
+
+1. HERO
+- Large professional name
+- Job title
+- Tagline
+- Buttons:
+   → Download CV
+   → Contact Me
+- Subtle tech background or gradient
+
+--------------------------------
+
+2. ABOUT ME
+
+Professional paragraph:
+
+Odoo ERP expert with more than 4 years of experience in development, customization and integration of enterprise solutions. Specialized in Python and business process automation, helping companies digitalize operations through tailored Odoo deployments. Combining strong technical expertise, functional analysis and project management skills to deliver robust, scalable and efficient systems.
+
+--------------------------------
+
+3. TECH STACK
+
+Badges or grid:
+
+- Odoo (v8 to v18)
+- Python
+- XML
+- JavaScript
+- PostgreSQL
+- Git/GitHub
+- HTML/CSS
+
+--------------------------------
+
+4. CORE SKILLS
+
+- Odoo integration
+- Custom module development
+- Functional analysis
+- Business process automation
+- ERP architecture
+- Technical documentation
+- User training
+- Agile/Scrum project management
+
+--------------------------------
+
+5. PROFESSIONAL EXPERIENCE (timeline)
+
+FUTURA SARL – Odoo ERP Developer (2024 – Present)
+- Develop and customize Odoo modules
+- Multi-company environments
+- Integrate enterprise systems
+- Testing and deployment
+- User training and support
+Modules: Sales, Purchase, Inventory, Accounting, CRM, Hospitality, Restaurant, Fleet, Maintenance
+
+CORPECCA SARL – Odoo Developer | Tech Lead | IT Project Manager (2021 – 2024)
+- Lead technical team
+- Custom ERP solutions
+- Client deployments
+- Documentation
+- Reporting and coordination
+Tech: Odoo, Python, JS, PostgreSQL, GitHub
+Methodologies: Agile, Scrum, Jira, Azure DevOps
+
+SCS / CAMLAIT / SOCARETEX – Technical-Functional Odoo Consultant
+- Business needs analysis
+- Module development
+- Bug fixing and testing
+- User stories
+- Training
+Version: Odoo v8
+
+PHILJOHN TECH – Odoo Cloud ERP Integrator
+- ERP implementation
+- POS configuration
+- Client support
+
+JE-TECHNOLOGIE – Web Developer Intern
+- Company websites development
+Tech: HTML, CSS, JavaScript, PHP, Bootstrap, CodeIgniter
+
+--------------------------------
+
+6. TOOLS & ENVIRONMENT
+
+- PyCharm
+- VS Code
+- GitHub
+- Ubuntu / Windows
+- VirtualBox / VMware
+- Trello / Jira / Azure DevOps / Slack
+
+--------------------------------
+
+7. EDUCATION
+
+- Project Management (2023)
+- Bachelor of Technology (2019–2020)
+
+--------------------------------
+
+8. LANGUAGES
+
+- French
+- English
+
+--------------------------------
+
+9. CONTACT
+
+Professional contact section:
+- Contact form
+- Email
+- Phone
+- LinkedIn/GitHub icons
+
+--------------------------------
+
+10. FOOTER
+
+© 2026 Ronald Ferry NOUMSI NOUBISSI – Odoo ERP Developer
+
+================================
+TECHNICAL REQUIREMENTS
+================================
+
+- React components architecture
+- Clean folder structure
+- TailwindCSS only
+- Framer Motion animations
+- SEO meta tags
+- Accessible design
+- Optimized performance
+- Ready for GitHub Pages deployment
+
+================================
+DELIVERABLE
+================================
+
+Generate a complete working React + Vite project with all files.
+
+At the end, explain clearly:
+
+- npm install
+- npm run dev
+- npm run build
+- how to deploy the dist folder to GitHub Pages using gh-pages

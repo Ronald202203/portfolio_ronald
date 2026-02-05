@@ -136,14 +136,14 @@ export default function Contact() {
                             className="flex gap-4 pt-4"
                         >
                             <motion.a
-                                href="#"
+                                href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bd4%2FbuaO2SOyeyzp5J%2FsMVA%3D%3D"
                                 whileHover={{ scale: 1.1, rotate: 5 }}
                                 className="p-4 bg-gradient-to-br from-primary-500 to-accent-500 rounded-xl text-white shadow-lg hover:shadow-glow transition-all"
                             >
                                 <Linkedin size={24} />
                             </motion.a>
                             <motion.a
-                                href="#"
+                                href="https://github.com/Ronald202203"
                                 whileHover={{ scale: 1.1, rotate: -5 }}
                                 className="p-4 bg-gradient-to-br from-gray-700 to-gray-900 rounded-xl text-white shadow-lg hover:shadow-xl transition-all"
                             >

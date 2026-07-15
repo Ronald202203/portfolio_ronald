@@ -159,7 +159,7 @@
             {
                 "company": "FUTURA SARL (Groupe CONGELCAM S.A.)",
                 "position": "Développeur ERP Odoo",
-                "period": "2024 – 2025",
+                "period": "2024 – Présent",
                 "responsibilities": [
                     "Analyse des besoins fonctionnels avec les directions métier",
                     "Développement de modules sur mesure et configuration d'environnements multi-sociétés",
@@ -167,6 +167,18 @@
                     "Formation des utilisateurs, documentation et support post-déploiement"
                 ],
                 "modules": "Modules : Ventes, Achats, Inventaire, Facturation, CRM, Gestion hôtelière, Restauration, Flotte, Maintenance — Odoo v14–v15 Community, v18 Enterprise"
+            },
+
+                   {
+                "company": "PHILJOHN TECH",
+                "position": "Intégrateur ERP Cloud Odoo",
+                "period": "2024 (mission)",
+                "responsibilities": [
+                    "Implémentation d'un système de point de vente (POS) pour une librairie",
+                    "Collecte des besoins, analyse fonctionnelle et configuration complète du module",
+                    "Relation client et conduite du changement en contexte retail"
+                ],
+                "modules": "Odoo Enterprise v17 — Configuration POS"
             },
             {
                 "company": "CORPECCA SARL",
@@ -191,17 +203,6 @@
                     "Suivi de projet via Azure DevOps : user stories, priorisation, contrôle des livrables"
                 ],
                 "modules": "Secteurs : agroalimentaire, textile, logistique — Modules : Ventes, Achats, Inventaire, Fabrication, POS, Reporting"
-            },
-            {
-                "company": "PHILJOHN TECH",
-                "position": "Intégrateur ERP Cloud Odoo",
-                "period": "2024 (mission)",
-                "responsibilities": [
-                    "Implémentation d'un système de point de vente (POS) pour une librairie",
-                    "Collecte des besoins, analyse fonctionnelle et configuration complète du module",
-                    "Relation client et conduite du changement en contexte retail"
-                ],
-                "modules": "Odoo Enterprise v17 — Configuration POS"
             },
             {
                 "company": "JE-TECHNOLOGIE",

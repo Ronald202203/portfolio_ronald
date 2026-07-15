@@ -1,0 +1,277 @@
+{
+    "hero": {
+        "name": "Ronald Ferry NOUMSI NOUBISSI",
+        "role": "Développeur ERP Odoo",
+        "subtitle": "Consultant Technico-Fonctionnel · Chef de Projet IT",
+        "tagline": "Je conçois, personnalise et déploie des solutions Odoo qui automatisent les processus métier — du module Python sur mesure jusqu'à l'infrastructure Docker/PostgreSQL en production.",
+        "downloadCV": "Télécharger le CV",
+        "contactMe": "Me contacter",
+        "manifestComment": "# Profil au format module Odoo"
+    },
+    "nav": {
+        "about": "À propos",
+        "skills": "Expertise",
+        "projects": "Réalisations",
+        "experience": "Expérience",
+        "education": "Formation",
+        "contact": "Contact"
+    },
+    "about": {
+        "eyebrow": "Profil",
+        "title": "À propos de moi",
+        "description": "Expert Odoo avec plus de 5 ans d'expérience en développement, personnalisation et intégration de solutions ERP (versions 8 à 18, Community et Enterprise). Fondateur de ZYGNIXIS, cabinet de conseil et d'intégration ERP, j'interviens sur tout le cycle de vie d'un ERP : analyse fonctionnelle, développement de modules sur mesure, débogage au niveau base de données, déploiement Docker, formation des utilisateurs et support en production. Actuellement en Master Sécurité des Systèmes d'Information (ENSPD), je renforce mon expertise sur la sécurisation des ERP et des infrastructures.",
+        "stats": {
+            "experience": "Années d'expérience",
+            "modules": "Modules Odoo sur mesure",
+            "versions": "Versions Odoo maîtrisées (v8–v18)",
+            "sectors": "Secteurs d'activité couverts"
+        }
+    },
+    "techStack": {
+        "eyebrow": "Stack",
+        "title": "Stack technique"
+    },
+    "skills": {
+        "eyebrow": "Expertise",
+        "title": "Domaines d'expertise",
+        "groups": [
+            {
+                "name": "Développement Odoo",
+                "items": [
+                    "Modules sur mesure Python / XML / QWeb",
+                    "Migration de modules entre versions (v8 → v18)",
+                    "Rapports métier et états personnalisés",
+                    "Règles de sécurité, groupes et record rules",
+                    "Environnements multi-sociétés et multi-entrepôts"
+                ]
+            },
+            {
+                "name": "Base de données & diagnostic",
+                "items": [
+                    "PostgreSQL avancé : requêtes SQL directes, analyse de dumps",
+                    "Diagnostic d'écarts de données (stocks, facturation, reporting)",
+                    "Correction de données de production documentée",
+                    "Optimisation et fiabilisation des rapports (BMQ, états de stock)"
+                ]
+            },
+            {
+                "name": "Déploiement & administration",
+                "items": [
+                    "Déploiements Odoo sous Docker (multi-instances)",
+                    "Administration Linux (Ubuntu) et Windows",
+                    "Restauration et migration de bases de production",
+                    "Tuning PostgreSQL (mémoire partagée, workers)"
+                ]
+            },
+            {
+                "name": "Conseil & gestion de projet",
+                "items": [
+                    "Analyse fonctionnelle et rédaction de user stories",
+                    "Méthodologies Agile / Scrum (Jira, Azure DevOps)",
+                    "Formation des utilisateurs et conduite du changement",
+                    "Documentation technique et chiffrage de projets"
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "eyebrow": "Réalisations",
+        "title": "Réalisations techniques marquantes",
+        "list": [
+            {
+                "name": "Cloisonnement de données multi-centres",
+                "description": "Module de sécurité Odoo isolant les données par unité organisationnelle (centres de distribution) : règles globales à trois niveaux selon les groupes utilisateurs, champs calculés liés à l'appartenance aux groupes, sans dégradation des performances.",
+                "tags": [
+                    "Odoo 15",
+                    "Record rules",
+                    "Sécurité",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Déploiements Odoo multi-instances sous Docker",
+                "description": "Mise en place de plusieurs instances Odoo 15 isolées sur un même serveur (conteneurs Odoo + PostgreSQL dédiés), restauration de bases de production, résolution d'erreurs de mémoire partagée PostgreSQL et dimensionnement des workers.",
+                "tags": [
+                    "Docker",
+                    "PostgreSQL",
+                    "Linux",
+                    "DevOps"
+                ]
+            },
+            {
+                "name": "Analyse forensique de données ERP",
+                "description": "Diagnostic d'écarts entre rapports de ventes, stocks et facturation sur bases de production : requêtes SQL directes sur les dumps, identification des causes racines (facturation différée, liens manquants, doubles écritures) et correctifs documentés.",
+                "tags": [
+                    "SQL",
+                    "PostgreSQL",
+                    "Audit de données"
+                ]
+            },
+            {
+                "name": "Fiabilisation des rapports métier",
+                "description": "Correction et alignement de rapports critiques (état des stocks, équation de stock, ventes par produits et par vendeurs, BMQ) : calculs de soldes initiaux, gestion des ajustements d'inventaire, cohérence inter-rapports.",
+                "tags": [
+                    "Reporting",
+                    "Odoo",
+                    "SQL"
+                ]
+            },
+            {
+                "name": "Migration de modules Odoo 14 → 15",
+                "description": "Portage de modules de gestion des remises (ventes et achats) : adaptation des méthodes compute, des vues QWeb, des signatures d'API de taxes et préservation des totaux de factures.",
+                "tags": [
+                    "Migration",
+                    "Python",
+                    "QWeb"
+                ]
+            },
+            {
+                "name": "Workflow de validation produit",
+                "description": "Module complet de validation à deux niveaux (brouillon → soumis → validé/refusé) : groupes de sécurité dédiés, assistant de refus motivé, prévention des doublons et traçabilité via le chatter.",
+                "tags": [
+                    "Workflow",
+                    "Odoo",
+                    "Python"
+                ]
+            }
+        ]
+    },
+    "experience": {
+        "eyebrow": "Parcours",
+        "title": "Expérience professionnelle",
+        "jobs": [
+            {
+                "company": "ZYGNIXIS",
+                "position": "Fondateur & Consultant ERP Odoo",
+                "period": "2025 – Présent",
+                "responsibilities": [
+                    "Création et direction d'un cabinet de conseil et d'intégration ERP Odoo",
+                    "Mission principale — CAMLAIT S.A. : maintenance et évolution d'une instance Odoo 15 de production multi-centres de distribution",
+                    "Développement de modules de sécurité (cloisonnement des données), de gestion des stocks et de reporting sur mesure",
+                    "Analyse SQL directe sur bases PostgreSQL pour le diagnostic et la fiabilisation des données",
+                    "Déploiement et administration d'instances Odoo sous Docker (environnements de test et de production)"
+                ],
+                "modules": "Client : CAMLAIT S.A. — Domaines : sécurité et cloisonnement des données, stocks, facturation, rapports métier (BMQ, états de stock, ventes)"
+            },
+            {
+                "company": "FUTURA SARL (Groupe CONGELCAM S.A.)",
+                "position": "Développeur ERP Odoo",
+                "period": "2024 – 2025",
+                "responsibilities": [
+                    "Analyse des besoins fonctionnels avec les directions métier",
+                    "Développement de modules sur mesure et configuration d'environnements multi-sociétés",
+                    "Conception et exécution de plans de tests (unitaires, fonctionnels, intégrés)",
+                    "Formation des utilisateurs, documentation et support post-déploiement"
+                ],
+                "modules": "Modules : Ventes, Achats, Inventaire, Facturation, CRM, Gestion hôtelière, Restauration, Flotte, Maintenance — Odoo v14–v15 Community, v18 Enterprise"
+            },
+            {
+                "company": "CORPECCA SARL",
+                "position": "Développeur Odoo | Tech Lead | Chef de Projet IT",
+                "period": "2021 – 2024",
+                "responsibilities": [
+                    "Direction de l'équipe technique et référent lors des déploiements en production",
+                    "Conception de solutions ERP personnalisées pour des clients multi-secteurs",
+                    "Appui à la gestion de projet : planification, coordination, reporting stratégique",
+                    "Rédaction de documentation technique et formation des utilisateurs"
+                ],
+                "modules": "Tech : Odoo, Python, JavaScript, PostgreSQL, GitHub | Méthodologies : Agile, Scrum, Jira, Azure DevOps"
+            },
+            {
+                "company": "SCS S.A. / CAMLAIT S.A. / SOCARETEX SARL",
+                "position": "Consultant Technico-Fonctionnel Odoo | Assistant Chef de Projet",
+                "period": "2020 – 2021",
+                "responsibilities": [
+                    "Analyse des besoins métier avec les équipes internes et les prestataires",
+                    "Développement et personnalisation de modules ERP critiques (Odoo v8)",
+                    "Diagnostic technique, résolution d'anomalies et documentation des correctifs",
+                    "Suivi de projet via Azure DevOps : user stories, priorisation, contrôle des livrables"
+                ],
+                "modules": "Secteurs : agroalimentaire, textile, logistique — Modules : Ventes, Achats, Inventaire, Fabrication, POS, Reporting"
+            },
+            {
+                "company": "PHILJOHN TECH",
+                "position": "Intégrateur ERP Cloud Odoo",
+                "period": "2024 (mission)",
+                "responsibilities": [
+                    "Implémentation d'un système de point de vente (POS) pour une librairie",
+                    "Collecte des besoins, analyse fonctionnelle et configuration complète du module",
+                    "Relation client et conduite du changement en contexte retail"
+                ],
+                "modules": "Odoo Enterprise v17 — Configuration POS"
+            },
+            {
+                "company": "JE-TECHNOLOGIE",
+                "position": "Développeur Web (stage)",
+                "period": "2020 – 2021",
+                "responsibilities": [
+                    "Développement de sites web d'entreprise (front-end et back-end)",
+                    "Rédaction de cahiers des charges techniques et configuration d'hébergements"
+                ],
+                "modules": "Tech : HTML5, CSS3, JavaScript, PHP, Bootstrap, CodeIgniter"
+            }
+        ]
+    },
+    "tools": {
+        "eyebrow": "Environnement",
+        "title": "Outils & environnement de travail",
+        "list": [
+            "PyCharm / VS Code",
+            "Git / GitHub",
+            "Docker",
+            "Ubuntu / Windows",
+            "PgAdmin 4",
+            "VirtualBox / VMware",
+            "Jira / Azure DevOps / Trello",
+            "Slack / Teams"
+        ]
+    },
+    "education": {
+        "eyebrow": "Formation",
+        "title": "Formation & langues",
+        "degrees": [
+            {
+                "degree": "Master 1 — Sécurité des Systèmes d'Information (SSI), ENSPD",
+                "year": "En cours"
+            },
+            {
+                "degree": "Certification en Gestion de Projet",
+                "year": "2023"
+            },
+            {
+                "degree": "Licence de Technologie",
+                "year": "2019 – 2020"
+            }
+        ],
+        "languagesTitle": "Langues",
+        "languages": [
+            {
+                "name": "Français",
+                "level": "Courant"
+            },
+            {
+                "name": "Anglais",
+                "level": "Professionnel"
+            }
+        ]
+    },
+    "contact": {
+        "eyebrow": "Contact",
+        "title": "Discutons de votre projet ERP",
+        "subtitle": "Disponible pour des missions de développement Odoo, de conseil technico-fonctionnel ou d'audit de données.",
+        "email": "Email",
+        "phone": "Téléphone",
+        "location": "Localisation",
+        "locationValue": "Douala / Yaoundé, Cameroun",
+        "form": {
+            "name": "Votre nom",
+            "email": "Votre email",
+            "message": "Votre message",
+            "send": "Envoyer le message"
+        }
+    },
+    "footer": {
+        "copyright": "© 2026 Ronald Ferry NOUMSI NOUBISSI — Développeur ERP Odoo",
+        "built": "Conçu avec React, Vite et Tailwind CSS"
+    }
+}

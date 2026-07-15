@@ -1,0 +1,277 @@
+{
+    "hero": {
+        "name": "Ronald Ferry NOUMSI NOUBISSI",
+        "role": "Odoo ERP Developer",
+        "subtitle": "Technical-Functional Consultant · IT Project Manager",
+        "tagline": "I design, customize and deploy Odoo solutions that automate business processes — from tailor-made Python modules to Docker/PostgreSQL production infrastructure.",
+        "downloadCV": "Download CV",
+        "contactMe": "Contact me",
+        "manifestComment": "# Profile as an Odoo module"
+    },
+    "nav": {
+        "about": "About",
+        "skills": "Expertise",
+        "projects": "Work",
+        "experience": "Experience",
+        "education": "Education",
+        "contact": "Contact"
+    },
+    "about": {
+        "eyebrow": "Profile",
+        "title": "About me",
+        "description": "Odoo expert with 5+ years of experience developing, customizing and integrating ERP solutions (versions 8 to 18, Community and Enterprise). Founder of ZYGNIXIS, an ERP consulting and integration firm, I cover the full ERP lifecycle: functional analysis, custom module development, database-level debugging, Docker deployment, user training and production support. Currently pursuing a Master's in Information Systems Security (ENSPD), strengthening my expertise in securing ERP systems and infrastructure.",
+        "stats": {
+            "experience": "Years of experience",
+            "modules": "Custom Odoo modules",
+            "versions": "Odoo versions mastered (v8–v18)",
+            "sectors": "Industries covered"
+        }
+    },
+    "techStack": {
+        "eyebrow": "Stack",
+        "title": "Tech stack"
+    },
+    "skills": {
+        "eyebrow": "Expertise",
+        "title": "Areas of expertise",
+        "groups": [
+            {
+                "name": "Odoo development",
+                "items": [
+                    "Custom Python / XML / QWeb modules",
+                    "Module migration across versions (v8 → v18)",
+                    "Custom business reports and statements",
+                    "Security rules, groups and record rules",
+                    "Multi-company and multi-warehouse environments"
+                ]
+            },
+            {
+                "name": "Database & diagnostics",
+                "items": [
+                    "Advanced PostgreSQL: direct SQL, production dump analysis",
+                    "Data discrepancy diagnosis (stock, invoicing, reporting)",
+                    "Documented production data fixes",
+                    "Report reliability and optimization (stock statements)"
+                ]
+            },
+            {
+                "name": "Deployment & administration",
+                "items": [
+                    "Odoo deployments with Docker (multi-instance)",
+                    "Linux (Ubuntu) and Windows administration",
+                    "Production database restore and migration",
+                    "PostgreSQL tuning (shared memory, workers)"
+                ]
+            },
+            {
+                "name": "Consulting & project management",
+                "items": [
+                    "Functional analysis and user story writing",
+                    "Agile / Scrum methodologies (Jira, Azure DevOps)",
+                    "User training and change management",
+                    "Technical documentation and project quotations"
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "eyebrow": "Work",
+        "title": "Selected technical work",
+        "list": [
+            {
+                "name": "Multi-site data isolation",
+                "description": "Odoo security module isolating data by organizational unit (distribution centers): three-tier global rules driven by user groups, computed fields reflecting group membership, with no performance degradation.",
+                "tags": [
+                    "Odoo 15",
+                    "Record rules",
+                    "Security",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Multi-instance Odoo deployments with Docker",
+                "description": "Set up several isolated Odoo 15 instances on a single server (dedicated Odoo + PostgreSQL containers), restored production databases, resolved PostgreSQL shared-memory errors and sized workers.",
+                "tags": [
+                    "Docker",
+                    "PostgreSQL",
+                    "Linux",
+                    "DevOps"
+                ]
+            },
+            {
+                "name": "ERP data forensics",
+                "description": "Diagnosed discrepancies between sales, stock and invoicing reports on production databases: direct SQL on dumps, root-cause identification (delayed invoicing, missing links, double entries) and documented fixes.",
+                "tags": [
+                    "SQL",
+                    "PostgreSQL",
+                    "Data audit"
+                ]
+            },
+            {
+                "name": "Business report reliability",
+                "description": "Fixed and aligned critical reports (stock statements, stock equation, sales by product and by salesperson): opening balance computations, inventory adjustment handling, cross-report consistency.",
+                "tags": [
+                    "Reporting",
+                    "Odoo",
+                    "SQL"
+                ]
+            },
+            {
+                "name": "Odoo 14 → 15 module migration",
+                "description": "Ported discount management modules (sales and purchases): adapted compute methods, QWeb views, tax API signatures and preserved invoice totals.",
+                "tags": [
+                    "Migration",
+                    "Python",
+                    "QWeb"
+                ]
+            },
+            {
+                "name": "Product validation workflow",
+                "description": "Complete two-level validation module (draft → submitted → validated/refused): dedicated security groups, refusal wizard with reason, duplicate prevention and chatter traceability.",
+                "tags": [
+                    "Workflow",
+                    "Odoo",
+                    "Python"
+                ]
+            }
+        ]
+    },
+    "experience": {
+        "eyebrow": "Career",
+        "title": "Professional experience",
+        "jobs": [
+            {
+                "company": "ZYGNIXIS",
+                "position": "Founder & Odoo ERP Consultant",
+                "period": "2025 – Present",
+                "responsibilities": [
+                    "Founded and lead an Odoo ERP consulting and integration firm",
+                    "Main engagement — CAMLAIT S.A.: maintain and evolve a multi-site Odoo 15 production instance (distribution centers)",
+                    "Develop custom security (data isolation), inventory and reporting modules",
+                    "Direct SQL analysis on PostgreSQL databases for diagnostics and data reliability",
+                    "Deploy and administer Odoo instances with Docker (test and production environments)"
+                ],
+                "modules": "Client: CAMLAIT S.A. — Focus: data security and isolation, inventory, invoicing, business reports (stock statements, sales)"
+            },
+            {
+                "company": "FUTURA SARL (CONGELCAM S.A. Group)",
+                "position": "Odoo ERP Developer",
+                "period": "2024 – 2025",
+                "responsibilities": [
+                    "Functional needs analysis with business departments",
+                    "Custom module development and multi-company environment configuration",
+                    "Design and execution of test plans (unit, functional, integration)",
+                    "User training, documentation and post-deployment support"
+                ],
+                "modules": "Modules: Sales, Purchases, Inventory, Invoicing, CRM, Hotel management, Restaurant, Fleet, Maintenance — Odoo v14–v15 Community, v18 Enterprise"
+            },
+            {
+                "company": "CORPECCA SARL",
+                "position": "Odoo Developer | Tech Lead | IT Project Manager",
+                "period": "2021 – 2024",
+                "responsibilities": [
+                    "Led the technical team and served as technical lead for production deployments",
+                    "Designed custom ERP solutions for clients across multiple industries",
+                    "Supported project management: planning, coordination, strategic reporting",
+                    "Wrote technical documentation and trained end users"
+                ],
+                "modules": "Tech: Odoo, Python, JavaScript, PostgreSQL, GitHub | Methodologies: Agile, Scrum, Jira, Azure DevOps"
+            },
+            {
+                "company": "SCS S.A. / CAMLAIT S.A. / SOCARETEX SARL",
+                "position": "Odoo Technical-Functional Consultant | Assistant Project Manager",
+                "period": "2020 – 2021",
+                "responsibilities": [
+                    "Business needs analysis with internal teams and external vendors",
+                    "Development and customization of critical ERP modules (Odoo v8)",
+                    "Technical diagnostics, bug fixing and documented remediation",
+                    "Project tracking via Azure DevOps: user stories, prioritization, deliverable control"
+                ],
+                "modules": "Industries: food & beverage, textile, logistics — Modules: Sales, Purchases, Inventory, Manufacturing, POS, Reporting"
+            },
+            {
+                "company": "PHILJOHN TECH",
+                "position": "Odoo Cloud ERP Integrator",
+                "period": "2024 (assignment)",
+                "responsibilities": [
+                    "Implemented a point-of-sale (POS) system for a bookstore",
+                    "Requirements gathering, functional analysis and full module configuration",
+                    "Client relationship and change management in a retail context"
+                ],
+                "modules": "Odoo Enterprise v17 — POS configuration"
+            },
+            {
+                "company": "JE-TECHNOLOGIE",
+                "position": "Web Developer (internship)",
+                "period": "2020 – 2021",
+                "responsibilities": [
+                    "Developed corporate websites (front-end and back-end)",
+                    "Wrote technical specifications and configured hosting environments"
+                ],
+                "modules": "Tech: HTML5, CSS3, JavaScript, PHP, Bootstrap, CodeIgniter"
+            }
+        ]
+    },
+    "tools": {
+        "eyebrow": "Environment",
+        "title": "Tools & work environment",
+        "list": [
+            "PyCharm / VS Code",
+            "Git / GitHub",
+            "Docker",
+            "Ubuntu / Windows",
+            "PgAdmin 4",
+            "VirtualBox / VMware",
+            "Jira / Azure DevOps / Trello",
+            "Slack / Teams"
+        ]
+    },
+    "education": {
+        "eyebrow": "Education",
+        "title": "Education & languages",
+        "degrees": [
+            {
+                "degree": "Master 1 — Information Systems Security (ISS), ENSPD",
+                "year": "Ongoing"
+            },
+            {
+                "degree": "Project Management Certification",
+                "year": "2023"
+            },
+            {
+                "degree": "Bachelor of Technology",
+                "year": "2019 – 2020"
+            }
+        ],
+        "languagesTitle": "Languages",
+        "languages": [
+            {
+                "name": "French",
+                "level": "Native"
+            },
+            {
+                "name": "English",
+                "level": "Professional"
+            }
+        ]
+    },
+    "contact": {
+        "eyebrow": "Contact",
+        "title": "Let's talk about your ERP project",
+        "subtitle": "Available for Odoo development assignments, technical-functional consulting or data audits.",
+        "email": "Email",
+        "phone": "Phone",
+        "location": "Location",
+        "locationValue": "Douala / Yaoundé, Cameroon",
+        "form": {
+            "name": "Your name",
+            "email": "Your email",
+            "message": "Your message",
+            "send": "Send message"
+        }
+    },
+    "footer": {
+        "copyright": "© 2026 Ronald Ferry NOUMSI NOUBISSI — Odoo ERP Developer",
+        "built": "Built with React, Vite and Tailwind CSS"
+    }
+}

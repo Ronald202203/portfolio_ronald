@@ -3,7 +3,7 @@
         "name": "Ronald Ferry NOUMSI NOUBISSI",
         "role": "Médecin des maladies Odoosiènnes",
         "subtitle": "Chirurgien des ERP en détresses · Optimisation des processus",
-        "tagline": "Développeur Odoo et fondateur de ZYGNIXIS SARL, j'accompagne les entreprises dans l'automatisation de leurs processus métier, de la personnalisation ERP jusqu'au déploiement en production. Une double compétence ERP et cybersécurité (Master SSI) qui me permet de livrer des systèmes non seulement fonctionnels, mais aussi sécurisés par conception.",
+        "tagline": "Développeur Odoo et fondateur de ZYGNIXIS SARL, j'accompagne les entreprises dans l'automatisation de leurs processus métier, de la personnalisation ERP jusqu'au déploiement en production. Une double compétence ERP et ingenieur en cybersécurité (Master SSI) qui me permet de livrer des systèmes non seulement fonctionnels, mais aussi sécurisés par conception.",
         "downloadCV": "Télécharger le CV",
         "contactMe": "Me contacter",
         "manifestComment": "# Profil au format module Odoo"
@@ -19,7 +19,7 @@
     "about": {
         "eyebrow": "Profil",
         "title": "À propos de moi",
-        "description": "Expert Odoo fort de plus de 5 ans d'expérience en développement, personnalisation et intégration ERP (versions 8 à 19, Community et Enterprise), j'ai fondé ZYGNIXIS, cabinet de conseil spécialisé dans le déploiement de solutions Odoo. J'interviens sur l'ensemble du cycle de vie d'un projet ERP : analyse des besoins métier, développement de modules sur mesure, optimisation base de données, déploiement Docker, formation des utilisateurs et support en production. Actuellement en Master Sécurité des Systèmes d'Information (ENSPD), j'oriente aujourd'hui mon expertise vers la sécurisation des environnements ERP et des infrastructures qui les hébergent.",
+        "description": "Expert Odoo fort de plus de 5 ans d'expérience en développement, personnalisation et intégration ERP (versions 8 à 19, Community et Enterprise), j'ai fondé ZYGNIXIS, cabinet de conseil spécialisé dans le déploiement de solutions Odoo. J'interviens sur l'ensemble du cycle de vie d'un projet ERP : analyse des besoins métier, développement de modules sur mesure, optimisation base de données, déploiement Docker, formation des utilisateurs et support en production. Actuellement en Master Sécurité des Systèmes d'Information (SSI), j'oriente aujourd'hui mon expertise vers la sécurisation des environnements ERP et des infrastructures qui les hébergent.",
         "stats": {
             "experience": "Années d'expérience",
             "modules": "Modules Odoo sur mesure",

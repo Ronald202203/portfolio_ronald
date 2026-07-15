@@ -4,7 +4,7 @@ import { SiPython, SiJavascript, SiPostgresql, SiGit, SiHtml5, SiDocker, SiLinux
 import { Database, FileCode } from 'lucide-react'
 
 const technologies = [
-    { name: 'Odoo', detail: 'v8 → v18', icon: Database },
+    { name: 'Odoo', detail: 'v8 → v19', icon: Database },
     { name: 'Python 3', detail: 'ORM, API, scripts', icon: SiPython },
     { name: 'PostgreSQL', detail: 'SQL avancé, dumps', icon: SiPostgresql },
     { name: 'Docker', detail: 'multi-instances', icon: SiDocker },

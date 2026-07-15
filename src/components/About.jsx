@@ -8,8 +8,8 @@ export default function About() {
     const stats = [
         { value: 5, suffix: '+', label: t('about.stats.experience') },
         { value: 25, suffix: '+', label: t('about.stats.modules') },
-        { value: 6, suffix: '', label: t('about.stats.versions') },
-        { value: 7, suffix: '', label: t('about.stats.sectors') },
+        { value: 7, suffix: '', label: t('about.stats.versions') },
+        { value: 10, suffix: '', label: t('about.stats.sectors') },
     ]
 
     return (

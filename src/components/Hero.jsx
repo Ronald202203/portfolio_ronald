@@ -19,10 +19,10 @@ function ManifestCard() {
                 <div className="text-white/35">{t('hero.manifestComment')}</div>
                 <div><span className="text-teal-100">{'{'}</span></div>
                 {line(1, <><span className="text-[#C99AE0]">'name'</span><span className="text-white/60">: </span><span className="text-[#9ED8A5]">'Ronald F. NOUMSI'</span><span className="text-white/60">,</span></>)}
-                {line(1, <><span className="text-[#C99AE0]">'category'</span><span className="text-white/60">: </span><span className="text-[#9ED8A5]">'ERP / Odoo'</span><span className="text-white/60">,</span></>)}
-                {line(1, <><span className="text-[#C99AE0]">'versions'</span><span className="text-white/60">: </span><span className="text-[#F0C674]">'v8 → v18'</span><span className="text-white/60">,</span></>)}
+                {line(1, <><span className="text-[#C99AE0]">'category'</span><span className="text-white/60">: </span><span className="text-[#9ED8A5]">'ERP / Odoo / Security'</span><span className="text-white/60">,</span></>)}
+                {line(1, <><span className="text-[#C99AE0]">'versions'</span><span className="text-white/60">: </span><span className="text-[#F0C674]">'v8 → v19'</span><span className="text-white/60">,</span></>)}
                 {line(1, <><span className="text-[#C99AE0]">'depends'</span><span className="text-white/60">: [</span></>)}
-                {line(2, <><span className="text-[#9ED8A5]">'python'</span><span className="text-white/60">, </span><span className="text-[#9ED8A5]">'postgresql'</span><span className="text-white/60">,</span></>)}
+                {line(2, <><span className="text-[#9ED8A5]">'python'</span><span className="text-white/60">, </span><span className="text-[#9ED8A5]">'postgresql'</span><span className="text-white/60">, </span><span className="text-[#9ED8A5]">'Owl'</span><span className="text-white/60">,</span></>)}
                 {line(2, <><span className="text-[#9ED8A5]">'docker'</span><span className="text-white/60">, </span><span className="text-[#9ED8A5]">'xml'</span><span className="text-white/60">, </span><span className="text-[#9ED8A5]">'javascript'</span><span className="text-white/60">,</span></>)}
                 {line(1, <span className="text-white/60">],</span>)}
                 {line(1, <><span className="text-[#C99AE0]">'installable'</span><span className="text-white/60">: </span><span className="text-[#F0C674]">True</span><span className="text-white/60">,</span></>)}

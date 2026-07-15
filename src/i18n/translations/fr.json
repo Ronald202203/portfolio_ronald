@@ -1,9 +1,9 @@
 {
     "hero": {
         "name": "Ronald Ferry NOUMSI NOUBISSI",
-        "role": "Développeur ERP Odoo",
-        "subtitle": "Consultant Technico-Fonctionnel · Chef de Projet IT",
-        "tagline": "Je conçois, personnalise et déploie des solutions Odoo qui automatisent les processus métier — du module Python sur mesure jusqu'à l'infrastructure Docker/PostgreSQL en production.",
+        "role": "Médecin des maladies Odoosiènnes",
+        "subtitle": "Chirurgien des ERP en détresses · Optimisation des processus",
+        "tagline": "Développeur Odoo et fondateur de ZYGNIXIS SARL, j'accompagne les entreprises dans l'automatisation de leurs processus métier, de la personnalisation ERP jusqu'au déploiement en production. Une double compétence ERP et cybersécurité (Master SSI) qui me permet de livrer des systèmes non seulement fonctionnels, mais aussi sécurisés par conception.",
         "downloadCV": "Télécharger le CV",
         "contactMe": "Me contacter",
         "manifestComment": "# Profil au format module Odoo"
@@ -19,11 +19,11 @@
     "about": {
         "eyebrow": "Profil",
         "title": "À propos de moi",
-        "description": "Expert Odoo avec plus de 5 ans d'expérience en développement, personnalisation et intégration de solutions ERP (versions 8 à 18, Community et Enterprise). Fondateur de ZYGNIXIS, cabinet de conseil et d'intégration ERP, j'interviens sur tout le cycle de vie d'un ERP : analyse fonctionnelle, développement de modules sur mesure, débogage au niveau base de données, déploiement Docker, formation des utilisateurs et support en production. Actuellement en Master Sécurité des Systèmes d'Information (ENSPD), je renforce mon expertise sur la sécurisation des ERP et des infrastructures.",
+        "description": "Expert Odoo fort de plus de 5 ans d'expérience en développement, personnalisation et intégration ERP (versions 8 à 19, Community et Enterprise), j'ai fondé ZYGNIXIS, cabinet de conseil spécialisé dans le déploiement de solutions Odoo. J'interviens sur l'ensemble du cycle de vie d'un projet ERP : analyse des besoins métier, développement de modules sur mesure, optimisation base de données, déploiement Docker, formation des utilisateurs et support en production. Actuellement en Master Sécurité des Systèmes d'Information (ENSPD), j'oriente aujourd'hui mon expertise vers la sécurisation des environnements ERP et des infrastructures qui les hébergent.",
         "stats": {
             "experience": "Années d'expérience",
             "modules": "Modules Odoo sur mesure",
-            "versions": "Versions Odoo maîtrisées (v8–v18)",
+            "versions": "Versions Odoo maîtrisées (v8–v19)",
             "sectors": "Secteurs d'activité couverts"
         }
     },
@@ -38,27 +38,30 @@
             {
                 "name": "Développement Odoo",
                 "items": [
-                    "Modules sur mesure Python / XML / QWeb",
-                    "Migration de modules entre versions (v8 → v18)",
-                    "Rapports métier et états personnalisés",
-                    "Règles de sécurité, groupes et record rules",
-                    "Environnements multi-sociétés et multi-entrepôts"
+                    "Développement de modules sur mesure (Python / XML / QWeb)",
+                    "Migration et montée de version (v8 → v19)",
+                    "Rapports et états métier personnalisés",
+                    "Gestion fine des droits d'accès : groupes, règles de sécurité et record rules",
+                    "Architectures multi-sociétés et multi-entrepôts"
                 ]
             },
             {
                 "name": "Base de données & diagnostic",
                 "items": [
-                    "PostgreSQL avancé : requêtes SQL directes, analyse de dumps",
-                    "Diagnostic d'écarts de données (stocks, facturation, reporting)",
-                    "Correction de données de production documentée",
+                    "Maîtrise avancée de PostgreSQL : requêtes SQL directes, analyse de dumps",
+                    "Diagnostic des écarts de données (stocks, facturation, reporting)",
+                    "Correction documentée des données en production",
                     "Optimisation et fiabilisation des rapports (BMQ, états de stock)"
                 ]
             },
             {
                 "name": "Déploiement & administration",
                 "items": [
-                    "Déploiements Odoo sous Docker (multi-instances)",
-                    "Administration Linux (Ubuntu) et Windows",
+                    "Déploiement Odoo sous Docker (architectures multi-instances)",
+                    "Administration système Linux (Ubuntu) et Windows",
+                    "Intégration et déploiement continu (CI/CD) avec GitHub Actions",
+                    "Sauvegardes automatisées et stratégies de reprise après incident",
+                    "Sécurisation des environnements de production (durcissement serveur, gestion des accès)",
                     "Restauration et migration de bases de production",
                     "Tuning PostgreSQL (mémoire partagée, workers)"
                 ]
@@ -67,9 +70,9 @@
                 "name": "Conseil & gestion de projet",
                 "items": [
                     "Analyse fonctionnelle et rédaction de user stories",
-                    "Méthodologies Agile / Scrum (Jira, Azure DevOps)",
-                    "Formation des utilisateurs et conduite du changement",
-                    "Documentation technique et chiffrage de projets"
+                    "Pilotage de projets en méthodologie Agile / Scrum (Jira, Azure DevOps)",
+                    "Formation des utilisateurs et accompagnement au changement",
+                    "Rédaction de documentation technique et chiffrage de projets"
                 ]
             }
         ]
